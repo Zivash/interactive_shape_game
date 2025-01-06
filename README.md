@@ -1,7 +1,3 @@
-Here's a GitHub README version for your project:
-
----
-
 # **Interactive Shape-Based Game**
 
 This project is a Windows Forms application that offers an engaging and interactive game experience by incorporating various geometric shapes. Users can interact with shapes like circles, squares, rectangles, and parallelograms, with dynamic visual effects and gameplay mechanics.
