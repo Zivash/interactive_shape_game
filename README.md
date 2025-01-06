@@ -30,5 +30,5 @@ This project is a Windows Forms application that offers an engaging and interact
 
 ## **Screenshoots**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/722065ab-5636-46b1-b470-5c368f3075db" alt="Game" width="200" />
+  <img src="https://github.com/user-attachments/assets/722065ab-5636-46b1-b470-5c368f3075db" alt="Game" width="500" />
   &nbsp;&nbsp;&nbsp;
