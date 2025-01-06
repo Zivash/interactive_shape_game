@@ -27,3 +27,8 @@ This project is a Windows Forms application that offers an engaging and interact
 ### 6. **Code Reusability and Extensibility**  
 - Designed with modular and reusable code, making it easy to add more shapes or modify the game logic.  
 - Emphasis on clean programming practices and separation of concerns, ensuring the codebase is maintainable.
+
+## **Screenshoots**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/722065ab-5636-46b1-b470-5c368f3075db" alt="Game" width="200" />
+  &nbsp;&nbsp;&nbsp;
