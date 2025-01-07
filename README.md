@@ -1,4 +1,4 @@
-# **Interactive Shape-Based Game**
+# **Interactive Shape Game**
 
 ## **Overview**
 This project is a Windows Forms application designed to offer an interactive game by incorporating various geometric shapes. Users can interact with shapes such as circles, squares, rectangles and parallelograms, with dynamic visual effects and gameplay mechanics.
